@@ -1,6 +1,6 @@
 # Eternals Music
 
-Eternals Music is a advanced Discord Music Bot. 
+Eternals Music is a advanced Discord Music Bot. Its a improved version of the bot made by [ZerioDev](https://github.com/ZerioDev). Go check out his version.
 
 ## Installation
 
