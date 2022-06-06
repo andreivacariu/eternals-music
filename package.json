@@ -1,0 +1,19 @@
+{
+  "name": "music-bot",
+  "main": "main.js",
+  "author": "Andrei",
+  "version": "1.0.0",
+  "description": "Free to use music bot",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "dependencies": {
+    "@discord-player/extractor": "^3.0.2",
+    "@discordjs/opus": "^0.7.0",
+    "discord-player": "^5.2.2",
+    "discord.js": "^13.1.0",
+    "ffmpeg-static": "^4.4.0",
+    "ms": "^3.0.0-canary.1",
+    "opusscript": "^0.0.8"
+  }
+}
